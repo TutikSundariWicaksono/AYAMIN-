@@ -1,1 +1,2 @@
 AYAMIN! adalah sebuah sistem informasi berbasis web yang berfungsi untuk memantau keadaan kandang peternak dan menjembatani transaksi antara peternak dan penjual. Terdapat dua hak akses dalam sistem informasi ini yaitu peternak, dan penjual. Seorang peternak dapat mengatur treshold dan memantau kondisi kandang, mengatur harga jual dan stok ayam, serta melihat transaksi penjualan. Seorang penjual dapat melakukan pemesanan ayam dan melihat data transaksi. Sistem ini dibangun menggunakan bahasa php native.
+
